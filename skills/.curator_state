@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20260905-005842",
+  "last_run_at": "2026-09-05T00:58:42.797049+00:00",
+  "last_run_duration_seconds": 593.32511,
+  "last_run_summary": "auto: 6 marked stale, 1 reactivated; llm: All verified. Here the summary:\n\n## Curator Pass Summary\n\n**Clusters processed: 6**\n\n### Cluster 1: Epic gaming → Linux gaming\n`epic-linux-gaming` duplicated Epic/Legendary/umu content already present in `linux-gaming-proton`. All unique co…\narchived 3 skill(s):\n  • epic-linux-gaming → linux-gaming-proton\n  • gif-search → gif\n  • pz-npc-modding → pz-b42-modding\nfull report: hermes curator status\nkeep an umbrella stable: hermes curator pin gif",
+  "last_run_summary_shown_at": "2026-07-24T21:50:30.741073+00:00",
+  "paused": false,
+  "run_count": 16
+}
