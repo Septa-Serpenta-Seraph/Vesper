@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20260912-010453",
+  "last_run_at": "2026-09-12T01:04:53.616846+00:00",
+  "last_run_duration_seconds": 362.535337,
+  "last_run_summary": "auto: 6 reactivated; llm: I'm satisfied with the landscape analysis. Let me compile the structured summary.\n\n## Curator Summary\n\n### Clusters Processed\n\n**1. `hermes-provider-configuration` → `local-inference`** (merged + archived)\nThese two skills had massive overl…\narchived 6 skill(s):\n  • deepseek-v4-local-hosting → local-inference\n  • hermes-dashboard-access → hermes-agent\n  • hermes-multi-profile → hermes-gateway-troubleshooting\n  • hermes-provider-configuration → local-inference\n  • shareable-clean-copy → github-filtered-backup\n  • serving-llms-vllm — pruned (stale)\nfull report: hermes curator status\nkeep an umbrella stable: hermes curator pin github-filtered-backup",
+  "last_run_summary_shown_at": "2026-07-24T21:50:30.741073+00:00",
+  "paused": false,
+  "run_count": 17
+}
