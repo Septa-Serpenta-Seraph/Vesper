@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20260919-010859",
+  "last_run_at": "2026-09-19T01:08:59.292522+00:00",
+  "last_run_duration_seconds": 246.88531,
+  "last_run_summary": "auto: 1 reactivated; llm: The content is intact. Here is the consolidation summary.\n\n---\n\n## Umbrella-Ification Summary\n\nI scanned all 40 curator-managed skills, identified prefix and semantic clusters, and analyzed each for consolidation opportunity. The pass yield…",
+  "last_run_summary_shown_at": "2026-07-24T21:50:30.741073+00:00",
+  "paused": false,
+  "run_count": 18
+}
