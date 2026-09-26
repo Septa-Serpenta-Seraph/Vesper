@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20260926-010923",
+  "last_run_at": "2026-09-26T01:09:23.194628+00:00",
+  "last_run_duration_seconds": 402.443611,
+  "last_run_summary": "auto: no changes; llm: All consolidations verified. Here's my human summary and structured report:\n\n---\n\n## Human Summary\n\nConsolidated **4 skills into 2 existing umbrellas + 1 new umbrella**, archiving them from the active tree while preserving all content:\n\n###…\narchived 4 skill(s):\n  • asus-laptop-linux → cachyos-laptop\n  • framework-adaptation → profile-identity-bootstrap\n  • linux-dual-boot → cachyos-laptop\n  • linux-gaming-proton → cachyos-laptop\nfull report: hermes curator status\nkeep an umbrella stable: hermes curator pin cachyos-laptop",
+  "last_run_summary_shown_at": "2026-07-24T21:50:30.741073+00:00",
+  "paused": false,
+  "run_count": 19
+}
