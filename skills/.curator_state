@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20261003-012715",
+  "last_run_at": "2026-10-03T01:27:15.119619+00:00",
+  "last_run_duration_seconds": 2539.397842,
+  "last_run_summary": "auto: no changes; llm: ⚠ Stream stalled mid tool-call (terminal, terminal); the action was not executed. Ask me to retry if you want to continue.## Curator pass — umbrella-ification summary\n\n**Scope check first:** The candidate list is 38 skills — but the profile…\narchived 5 skill(s):\n  • companion-tooling → hermes-agent\n  • hermes-agent-skill-authoring → hermes-agent\n  • local-tts → local-inference\n  • parental-communication → other-partner-support\n  • evaluating-llms-harness — pruned (stale)\nfull report: hermes curator status\nkeep an umbrella stable: hermes curator pin hermes-agent",
+  "last_run_summary_shown_at": "2026-07-24T21:50:30.741073+00:00",
+  "paused": false,
+  "run_count": 20
+}
