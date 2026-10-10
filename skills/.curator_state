@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20261010-012811",
+  "last_run_at": "2026-10-10T01:28:11.513518+00:00",
+  "last_run_duration_seconds": 450.029589,
+  "last_run_summary": "auto: 24 marked stale; llm: ## Curator pass summary\n\n**Method.** I scanned all 47 candidate skills, inspected packages on disk (support files, reference links), and clustered by *class* rather than pairwise overlap. I processed 5 clusters into umbrellas, re-homed supp…\narchived 10 skill(s):\n  • anti-detection-scraping → blocked-page-recovery\n  • email-offer-verification → email-inbox-triage\n  • github-repo-management → github\n  • inspecting-hermes-desktop-dom → hermes-agent\n  • medication-support → health-second-opinion\n  • competitor-news-monitor — pruned (stale)\n  • document-to-action-items — pruned (stale)\n  • meeting-action-items — pruned (stale)\n  • product-price-monitor — pruned (stale)\n  • weekly-review-planning — pruned (stale)\nfull report: hermes curator status\nkeep an umbrella stable: hermes curator pin blocked-page-recovery",
+  "last_run_summary_shown_at": "2026-10-03T01:27:15.119619+00:00",
+  "paused": false,
+  "run_count": 21
+}
