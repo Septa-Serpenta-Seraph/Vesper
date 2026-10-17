@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20261017-013954",
+  "last_run_at": "2026-10-17T01:39:54.587043+00:00",
+  "last_run_duration_seconds": 634.678208,
+  "last_run_summary": "auto: 1 marked stale, 1 reactivated; llm: Consolidation pass complete. Here's the report.\n\n## Curator pass — umbrella consolidation (Vesper profile)\n\n**Landscape reality check.** The 39 curator-managed skills sit on top of an already heavily-curated profile (`.archive/` held 115 pr…\narchived 10 skill(s):\n  • desktop-remote-control → windows-maintenance\n  • github-filtered-backup → self-management\n  • windows-audio-routing → windows-maintenance\n  • autonomous-agency — pruned (stale)\n  • cities-skylines-modding — pruned (stale)\n  • discord-server-management — pruned (stale)\n  • hermes-gateway-troubleshooting — pruned (stale)\n  • minecraft-commands — pruned (stale)\n  • pet-management — pruned (stale)\n  • profile-identity-bootstrap — pruned (stale)\nfull report: hermes curator status\nkeep an umbrella stable: hermes curator pin self-management",
+  "last_run_summary_shown_at": "2026-10-03T01:27:15.119619+00:00",
+  "paused": false,
+  "run_count": 22
+}
