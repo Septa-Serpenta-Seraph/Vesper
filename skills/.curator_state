@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20261024-023723",
+  "last_run_at": "2026-10-24T02:37:23.117259+00:00",
+  "last_run_duration_seconds": 300.812634,
+  "last_run_summary": "auto: 1 marked stale, 1 archived, 1 reactivated; llm: The `handy-control` skill is not curator-managed (created_by=None), so I can't archive it via the curator path. It remains standalone. The content has been re-homed into `controllable-intimate-hardware` (the relay script now lives at `contr…\narchived 2 skill(s):\n  • cannabis-employment-risk → drug-testing-and-employment\n  • drug-testing-exposure → drug-testing-and-employment\nfull report: hermes curator status\nkeep an umbrella stable: hermes curator pin drug-testing-and-employment",
+  "last_run_summary_shown_at": "2026-10-03T01:27:15.119619+00:00",
+  "paused": false,
+  "run_count": 23
+}
