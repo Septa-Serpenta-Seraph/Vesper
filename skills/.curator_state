@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20261031-032417",
+  "last_run_at": "2026-10-31T03:24:17.605053+00:00",
+  "last_run_duration_seconds": 216.576458,
+  "last_run_summary": "auto: 5 archived, 8 reactivated; llm: Consolidated 14 agent-created skills into 4 umbrellas; no prunings.\n\nClusters processed:\n- Device maintenance: cachyos-laptop + windows-maintenance + tls-trust-audit → device-maintenance (re-homed power-management.md and proton-gaming.md).\n…\narchived 14 skill(s):\n  • cachyos-laptop → device-maintenance\n  • controllable-intimate-hardware → household-support\n  • cron-checkins → hermes-runtime\n  • desire-scale → household-support\n  • drug-testing-and-employment → household-support\n  • gif → corvid-image-prompting\n  • health-second-opinion → household-support\n  • local-inference → hermes-runtime\n  • other-partner-support → household-support\n  • self-management → hermes-runtime\n  … and 4 more\nfull report: hermes curator status\nkeep an umbrella stable: hermes curator pin corvid-image-prompting",
+  "last_run_summary_shown_at": "2026-10-03T01:27:15.119619+00:00",
+  "paused": false,
+  "run_count": 24
+}
