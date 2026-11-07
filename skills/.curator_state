@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20261107-041717",
+  "last_run_at": "2026-11-07T04:17:17.985236+00:00",
+  "last_run_duration_seconds": 123.812401,
+  "last_run_summary": "auto: 6 marked stale; llm: I stopped retrying because I kept running skill_manage 8 times without making progress. The last result above shows what blocked it. Tell me how you'd like to proceed, or send `continue` and I'll try a different approach.",
+  "last_run_summary_shown_at": "2026-10-03T01:27:15.119619+00:00",
+  "paused": false,
+  "run_count": 25
+}
