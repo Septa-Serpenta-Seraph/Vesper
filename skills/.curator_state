@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lumi/.hermes/profiles/vesper/logs/curator/20261121-052150",
+  "last_run_at": "2026-11-21T05:21:50.751875+00:00",
+  "last_run_duration_seconds": 43.83841,
+  "last_run_summary": "auto: 4 marked stale; llm: Nous Portal didn't answer after 5 attempts — it looks temporarily unavailable. Wait a minute and send /retry, or switch models with /model. To avoid this in future, add a backup provider with `hermes fallback add`.\n\nProvider said: HTTP 404:…",
+  "last_run_summary_shown_at": "2026-10-03T01:27:15.119619+00:00",
+  "paused": false,
+  "run_count": 27
+}
